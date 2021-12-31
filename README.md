@@ -7,7 +7,7 @@ My favorite languages are Golang and Typescript.
 
 Here are some stats for you:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pisanvs&langs_count=5&exclude_repo=pisanvs.cl&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pisanvs&langs_count=5&exclude_repo=pisanvs.cl&theme=github_dark)  
 ![](https://github-readme-stats.vercel.app/api?username=pisanvs&show_icons=true&theme=github_dark)
 
 
