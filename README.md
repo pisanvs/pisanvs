@@ -10,9 +10,9 @@ Here are some stats for you:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pisanvs&langs_count=5&exclude_repo=pisanvs.cl&theme=github_dark)  
 ![](https://github-readme-stats.vercel.app/api?username=pisanvs&show_icons=true&theme=github_dark)
 
-
-If you want to help me out, you might want to contribute to noteer :)
-
+I'm currently working on:
+  - Neural Networks
+  - Linux Stuff in C
 <!--
 **pisanvs/pisanvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
