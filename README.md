@@ -3,7 +3,7 @@
 I'm `pisanvs`, you can pronounce it however you like, I am a DJ, streamer, and programmer. You can
 find out more about me in my [website](https://pisanvs.cl).
 
-My favorite languages are Golang and Typescript.
+My favorite languages are Golang, Typescript and C.
 
 Here are some stats for you:
 
