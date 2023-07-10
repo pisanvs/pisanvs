@@ -12,8 +12,11 @@ Here are some stats for you:
 
 I'm currently working on:
   - Smart Home and Domotics (home assistant) @ [numotics](https://numotics.pisanvs.cl)
-  - Neural Networks and AI
-  - Linux Stuff in C
+  - Neural Networks, AI, and LLMs
+  - C in Embedded devices
+  - Multiple Web Apps
+
+
 <!--
 **pisanvs/pisanvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
