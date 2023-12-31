@@ -11,7 +11,7 @@ Here are some stats for you:
 ![](https://github-readme-stats.vercel.app/api?username=pisanvs&show_icons=true&theme=github_dark)
 
 I'm currently working on:
-  - Smart Home and Domotics (home assistant) @ [numotics](https://numotics.pisanvs.cl)
+  - Smart Home and Domotics (home assistant) [@numotics](https://github.com/numotics) 
   - Neural Networks, AI, and LLMs
   - C in Embedded devices
   - Multiple Web Apps
