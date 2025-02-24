@@ -9,7 +9,7 @@ My favorite languages are Golang, Typescript and C.
 Stats & Skills:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisanvs&langs_count=6&exclude_repo=pisanvs.cl&theme=github_dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pisanvs&langs_count=6&exclude_repo=pisanvs.cl,GLOBE-spacedebris&theme=github_dark&layout=compact" />
 </div>
 
 <br />
