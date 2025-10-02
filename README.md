@@ -31,7 +31,8 @@ Stats & Skills:
 <br />
 
 I'm currently working on:
-  - Smart Home and Domotics (home assistant) [@numotics](https://github.com/numotics) 
+  - Smart Home and Domotics (home assistant) [@numotics](https://github.com/numotics)
+  - Education Technology [@Stick](https://github.com/Stick-Learning)
   - Neural Networks, AI, and LLMs
   - C in Embedded devices
   - Multiple Web Apps
